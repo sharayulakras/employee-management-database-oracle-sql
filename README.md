@@ -60,13 +60,13 @@ It covers:
 
 ## Folder Structure
 
-Database/
+Database
 
-Queries/
+Queries
 
-Screenshots/
+Screenshots
 
-Documentation/
+Documentation
 
 ---
 
